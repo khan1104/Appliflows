@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Add Company</title>
+    <link rel="stylesheet" href="./css/add-company.css">
+</head>
+
+<body>
+    <nav>
+        <div class="left-nav">
+            <img src="./assets/zi_cloud_logo.jpeg" alt="Logo">
+        </div>
+        <div class="right-nav">
+            <a href="dashboard.html">Dashboard</a>
+            <a href="view-company.html">View Company</a>
+            <a href="contacts.html">View Contacts</a>
+            <button onclick="logout()">Logout</button>
+        </div>
+    </nav>
+
+    <div class="container">
+        <h2>Add New Company</h2>
+        <form id="company-form">
+            <input type="text" id="name" placeholder="Company Name" required>
+            <input type="text" id="website" placeholder="Company Website (https://...)" required>
+            <select id="funding_stage" required>
+                <option value="">Select Funding Stage</option>
+                <option value="Pre-Seed">Pre-Seed</option>
+                <option value="Seed">Seed</option>
+                <option value="Series A">Series A</option>
+                <option value="Series B">Series B</option>
+            </select>
+            <button type="submit">Add Company</button>
+        </form>
+        <p id="response-message"></p>
+    </div>
+    <script src="./js/auth.js"></script>
+    <script src="./js/protect.js"></script>
+    <script src="./js/company.js"></script>
+</body>
+
+</html>

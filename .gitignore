@@ -1,0 +1,50 @@
+# ========== Python ========== #
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+*.sqlite3
+instance/
+.env
+.env.*
+*.db
+
+# Virtual Environment
+venv/
+env/
+.venv/
+ENV/
+
+# ========== FastAPI / Uvicorn / Pydantic ========== #
+*.pid
+*.mypy_cache/
+*.pytest_cache/
+*.coverage
+htmlcov/
+
+# ========== Node / JS Frontend (if used) ========== #
+node_modules/
+dist/
+build/
+*.lock
+
+# ========== VS Code ========== #
+.vscode/
+.code-workspace
+
+# ========== OS Files ========== #
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ========== Logs / Cache / Others ========== #
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.cache/
+*.bak
+*.swp
+
+# ========== Frontend static exports (if generated) ========== #
+/static/

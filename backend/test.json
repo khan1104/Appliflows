@@ -1,0 +1,124 @@
+[
+    {
+        "name": "Rahul Rawat",
+        "email": "rahul@amazon.in",
+        "title": "Head of Supply Chain",
+        "seniority": "executive",
+        "department": "operations",
+        "linkedin": "https://www.linkedin.com/in/rahul-rawat-b44052176",
+        "twitter": null,
+        "sources": [
+            "https://www.google.com/search?q=site:linkedin.com%20rahul%20rawat%20amazon"
+        ]
+    },
+    {
+        "name": "Prashant Dubey",
+        "email": "prashant@amazon.in",
+        "title": "Director of International Relations",
+        "seniority": "executive",
+        "department": "communication",
+        "linkedin": "https://www.linkedin.com/in/prashant-dubey",
+        "twitter": null,
+        "sources": [
+            "https://www.google.com/search?q=site:linkedin.com%20prashant%20dubey%20amazon"
+        ]
+    },
+    {
+        "name": "Ritesh Joshi",
+        "email": "ritesh@amazon.in",
+        "title": "Sales Executive",
+        "seniority": "executive",
+        "department": "sales",
+        "linkedin": "https://www.linkedin.com/in/ritesh-joshi-68b03a16b",
+        "twitter": null,
+        "sources": [
+            "https://www.google.com/search?q=site:linkedin.com%20ritesh%20joshi%20amazon"
+        ]
+    },
+    {
+        "name": "Vinayak Bhor",
+        "email": "vinayak@amazon.in",
+        "title": "Sales Executive",
+        "seniority": "executive",
+        "department": "sales",
+        "linkedin": "https://www.linkedin.com/in/vinayak-bhor-05b293169",
+        "twitter": null,
+        "sources": [
+            "https://www.google.com/search?q=site:linkedin.com%20vinayak%20bhor%20amazon"
+        ]
+    },
+    {
+        "name": "Vivek Babu",
+        "email": "vivek@amazon.in",
+        "title": "Executive",
+        "seniority": "executive",
+        "department": "executive",
+        "linkedin": "https://www.linkedin.com/in/vivek-babu-34bb93201",
+        "twitter": null,
+        "sources": [
+            "https://www.google.com/search?q=site:linkedin.com%20vivek%20babu%20amazon"
+        ]
+    },
+    {
+        "name": "Shaik Sultan",
+        "email": "shaik@amazon.in",
+        "title": "Delivery Driver",
+        "seniority": null,
+        "department": null,
+        "linkedin": "https://www.linkedin.com/in/shaik-sultan-5666aa1b0",
+        "twitter": null,
+        "sources": [
+            "https://www.google.com/search?q=site:linkedin.com%20shaik%20sultan%20amazon"
+        ]
+    },
+    {
+        "name": "Rina Gaikwad",
+        "email": "rina@amazon.in",
+        "title": "Human Resources Manager",
+        "seniority": "senior",
+        "department": "hr",
+        "linkedin": "https://www.linkedin.com/in/rina-gaikwad-476844272",
+        "twitter": null,
+        "sources": [
+            "https://www.google.com/search?q=site:linkedin.com%20rina%20gaikwad%20amazon"
+        ]
+    },
+    {
+        "name": "Stuart Eustace",
+        "email": "stuart@amazon.in",
+        "title": "Senior Risk Manager",
+        "seniority": "senior",
+        "department": "management",
+        "linkedin": "https://www.linkedin.com/in/stuart-eustace-msyl-cpp-psp-09535361",
+        "twitter": null,
+        "sources": [
+            "https://www.google.com/search?q=site:linkedin.com%20stuart%20eustace%20amazon"
+        ]
+    },
+    {
+        "name": "Chennai Bala",
+        "email": "chennai@amazon.in",
+        "title": "Field Executive",
+        "seniority": "executive",
+        "department": "executive",
+        "linkedin": "https://www.linkedin.com/in/chennai-bala-b454581b2",
+        "twitter": null,
+        "sources": [
+            "https://www.google.com/search?q=site:linkedin.com%20chennai%20bala%20amazon"
+        ]
+    },
+    {
+        "name": "Cyril Caire",
+        "email": "cyril@amazon.in",
+        "title": "Head of Carrier Management",
+        "seniority": "executive",
+        "department": "management",
+        "linkedin": "https://www.linkedin.com/in/cyrilcaire",
+        "twitter": null,
+        "sources": [
+            "https://www.google.com/search?q=site:linkedin.com%20cyril%20caire%20amazon"
+        ]
+    }
+]
+
+

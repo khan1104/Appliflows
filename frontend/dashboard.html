@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Dashboard</title>
+    <link rel="stylesheet" href="./css/dashboard.css">
+</head>
+
+<body>
+    <nav>
+        <div class="left-nav">
+            <a href="https://www.zicloud.co/"><img src="./assets/zi_cloud_logo.jpeg" alt="ZiCloud Logo" /></a>
+        </div>
+        <div class="right-nav">
+            <a href="add-company.html">Add Company</a>
+            <a href="view-company.html">View Company</a>
+            <a href="contacts.html">View Contacts</a>
+            <button onclick="logout()">Logout</button>
+        </div>
+    </nav>
+
+    <div class="dashboard-container">
+        <h1>Welcome to Lead Discovery System</h1>
+        <p class="tagline">"Discover the right people. Drive the right results."</p>
+    </div>
+    <script src="js/auth.js"></script>
+    <script src="./js/protect.js"></script>
+</body>
+
+</html>
