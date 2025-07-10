@@ -36,6 +36,6 @@ cd Appliflows
 # 2. Navigate to frontend folder
 cd frontend
 
-# 3. navigate to backend folder and open live server or type in browser http://127.0.0.1:5501/
+# 3. navigate to backend folder and open live server and type in browser http://127.0.0.1:5501/
 ```
 
